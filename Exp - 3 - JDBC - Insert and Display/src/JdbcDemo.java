@@ -13,7 +13,7 @@ public class JdbcDemo {
                 "insert into student values(?,?,?)");
 
         ps.setInt(1, 101);
-        ps.setString(2, "Rahul");
+        ps.setString(2, "Siddharth");
         ps.setString(3, "CSE");
 
         ps.executeUpdate();

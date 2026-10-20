@@ -98,7 +98,7 @@ mvn exec:java -pl swing-admin -Dexec.mainClass="com.shopsphere.swing.SwingAdminA
 
 | Role | Email | Password |
 | :--- | :--- | :--- |
-| **Customer** | `rahul@example.com` | `customer123` |
+| **Customer** | `siddharth@example.com` | `customer123` |
 | **Administrator** | `admin@shopsphere.com` | `admin123` |
 
 ---

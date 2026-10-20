@@ -49,7 +49,7 @@
             <div class="mt-4 pt-3 border-top">
                 <span class="small text-muted d-block text-center mb-2">Quick Viva / Demo Credentials:</span>
                 <div class="d-flex gap-2">
-                    <button type="button" class="btn btn-outline-secondary btn-sm w-50" onclick="fillCreds('rahul@example.com', 'customer123')">
+                    <button type="button" class="btn btn-outline-secondary btn-sm w-50" onclick="fillCreds('siddharth@example.com', 'customer123')">
                         <i class="bi bi-person me-1"></i> Customer
                     </button>
                     <button type="button" class="btn btn-outline-danger btn-sm w-50" onclick="fillCreds('admin@shopsphere.com', 'admin123')">

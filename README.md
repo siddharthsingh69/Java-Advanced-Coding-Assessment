@@ -301,7 +301,7 @@ mvn clean package
 | Role | Email | Password |
 | :--- | :--- | :--- |
 | **Administrator** | `admin@shopsphere.com` | `admin123` |
-| **Customer** | `rahul@example.com` | `customer123` |
+| **Customer** | `siddharth@example.com` | `customer123` |
 
 ---
 

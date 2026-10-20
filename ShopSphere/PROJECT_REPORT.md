@@ -266,7 +266,7 @@ erDiagram
 | :--- | :--- | :--- | :--- | :--- |
 | **Database Connection** | JDBC URL localhost:3306 | Valid connection catalog | Connected to `shopsphere` | **PASSED** |
 | **Password Hashing** | Raw text `customer123` | Deterministic SHA-256 hash | Matches `b041c0aeb35...` | **PASSED** |
-| **Customer Auth** | `rahul@example.com` | User POJO with CUSTOMER role | Session populated, name displayed | **PASSED** |
+| **Customer Auth** | `siddharth@example.com` | User POJO with CUSTOMER role | Session populated, name displayed | **PASSED** |
 | **Admin Protection** | Customer accessing `/admin/*` | Access Denied redirect | Redirected with error code | **PASSED** |
 | **Catalog Search** | Query `"keyboard"` | Matching keyboard products | Displayed 1 matching item | **PASSED** |
 | **Cart Subtotal** | 2 items @ ₹4,499.10 | Subtotal ₹8,998.20 | Computed exactly to two decimals | **PASSED** |

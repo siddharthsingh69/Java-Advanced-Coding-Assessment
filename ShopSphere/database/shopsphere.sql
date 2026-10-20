@@ -175,7 +175,7 @@ CREATE TABLE coupon_usage (
 
 INSERT INTO users (user_id, name, email, password, mobile, role, status) VALUES
 (1, 'ShopSphere Admin', 'admin@shopsphere.com', '240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9', '9876543210', 'ADMIN', 'ACTIVE'),
-(2, 'Rahul Sharma', 'rahul@example.com', 'b041c0aeb35bb0fa4aa668ca5a920b590196fdaf9a00eb852c9b7f4d123cc6d6', '9811223344', 'CUSTOMER', 'ACTIVE'),
+(2, 'Siddharth Singh', 'siddharth@example.com', 'b041c0aeb35bb0fa4aa668ca5a920b590196fdaf9a00eb852c9b7f4d123cc6d6', '9811223344', 'CUSTOMER', 'ACTIVE'),
 (3, 'Priya Patel', 'priya@example.com', 'b041c0aeb35bb0fa4aa668ca5a920b590196fdaf9a00eb852c9b7f4d123cc6d6', '9822334455', 'CUSTOMER', 'ACTIVE');
 
 INSERT INTO addresses (address_id, user_id, address_line, city, state, pincode, address_type) VALUES
